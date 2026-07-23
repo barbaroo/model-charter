@@ -356,6 +356,14 @@ professionals.
 
 ### 6.3
 
+<!-- Source: [Reglerne i AI-forordningen](https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/) -->
+<!-- Scope: General -->
+
+When issues pertain high-risk domains— particularly where advice may significantly affect health, safety, or fundamental rights— the AI should encourage consultation with an appropriately qualified human professional.
+
+
+### 6.4
+
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
 
